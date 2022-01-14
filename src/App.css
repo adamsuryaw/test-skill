@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+input {
+  width: 2%;
+}
+.position {
+  display: flex;
+}
+.square1 {
+  height: 50px;
+  width: 50px;
+  background-color: #555;
+  display: flex;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
